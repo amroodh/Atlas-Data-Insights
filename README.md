@@ -49,16 +49,12 @@ To get started with this project, follow these steps:
 
 We welcome contributions to improve Atlas Data Analytics! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or inquiries, please contact:
 
 - **Amrit Raj**
-- Email: amritraj.ec21@ieee.org
+- Email: amritraj.ec21@rvce.edu.in
 
 ---
 
