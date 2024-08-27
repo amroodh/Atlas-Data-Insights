@@ -13,6 +13,8 @@ Atlas Data Analytics is designed to provide comprehensive analytics for HR data,
 
 - `Attendance Sheet 2022-2023_Masked.xlsx`: Excel file containing masked attendance data for the year 2022-2023.
 - `HR Analytics Atlas Data Analytics.pbix`: Power BI file for the HR analytics dashboard.
+## Output
+![Screenshot 2024-08-27 234524](https://github.com/user-attachments/assets/fbde72a1-afdc-45f5-ba63-f82593d731a9)
 
 ## Getting Started
 
